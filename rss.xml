@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jedd & Mary's Wedding]]></title>
+        <description><![CDATA[Jedd & Mary's Wedding]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Aug 2016 02:32:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/729c17ef-4ad8-4d27-a3ad-162ef6ee7d15.jpg">]]></description>
+            <link>undefined4c529043-eaa6-489d-b4cc-771d1bcbd3a8/index.html</link>
+            <guid isPermaLink="false">4c529043-eaa6-489d-b4cc-771d1bcbd3a8</guid>
+            <pubDate>Sat, 13 Aug 2016 02:32:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
