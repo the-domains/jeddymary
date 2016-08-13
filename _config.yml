@@ -1,7 +1,7 @@
 name: Jedd & Mary's Wedding
 favicon: null
-layout_spectrum: 0.9822957736905664
-typography_spectrum: 0.7336465914268047
+layout_spectrum: 1
+typography_spectrum: 0.15081
 title: Jedd & Mary's Wedding
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#e7d5d3'
+    - '#b0bd8d'
+    - '#a28f49'
+    - '#56410f'
+    - '#5d7584'
   brandStrength: 0.8459296301007271
   lightness: 0.08080739411525428
   saturation: 0.9717860214877874
